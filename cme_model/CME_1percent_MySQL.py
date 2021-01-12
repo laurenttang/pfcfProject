@@ -30,7 +30,7 @@ dbconn=pymysql.connect(
 # In[2]:
 
 
-df_ori = pd.read_csv('/home/spark/pfcf_github/cme_model/CME.csv',encoding='BIG5') # define query tables
+df_ori = pd.read_csv('/home/pfcf/pfcfProject/cme_model/CME.csv',encoding='BIG5') # define query tables
 
 
 # In[3]:
