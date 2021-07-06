@@ -97,8 +97,8 @@ for i in trange(len(df_ori),dynamic_ncols=True): # for each table
     negative_count=df_from_dict[df_from_dict['diff_p']<0].describe()['diff_p'].iloc[0]
     negative_avg  =round(df_from_dict[df_from_dict['diff_p']<0].describe()['diff_p'].iloc[1],2)
     negative_min  =df_from_dict[df_from_dict['diff_p']<0].describe()['diff_p'].iloc[3]
-    positive_win  =round(positive_count/(positive_count+negative_count),4)*100
-    negative_win  =round(negative_count/(positive_count+negative_count),4)*100
+    positive_win  =round(positive_count/(positive_count+negative_count)*100,4)
+    negative_win  =round(negative_count/(positive_count+negative_count)*100,4)
     positive_maxpt=round(df_from_dict[df_from_dict['diff']>=0].describe()['diff'].iloc[7],2)
     negative_maxpt=round(df_from_dict[df_from_dict['diff']<0].describe()['diff'].iloc[3],2)
     commod_list=[i+1,mod_name,positive_count,positive_avg,positive_max,negative_count,negative_avg,negative_min,positive_win,negative_win,positive_maxpt,negative_maxpt]
