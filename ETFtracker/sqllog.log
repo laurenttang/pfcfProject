@@ -1,0 +1,6814 @@
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+17
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 91, in <module>
+    dd.to_sql('etf_tracker', engine2, if_exists = 'append',index=False)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2663, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 521, in to_sql
+    method=method,
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1316, in to_sql
+    table.create()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 644, in create
+    if self.exists():
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 631, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1341, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 56, in <module>
+    dd['issued_unit']=dd['issued_unit'].apply(lambda x: transformer(x))
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pandas/core/series.py", line 3848, in apply
+    mapped = lib.map_infer(values, f, convert=convert_dtype)
+  File "pandas/_libs/lib.pyx", line 2327, in pandas._libs.lib.map_infer
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 56, in <lambda>
+    dd['issued_unit']=dd['issued_unit'].apply(lambda x: transformer(x))
+  File "/home/pfcf/pfcfProject/ETFtracker/json_pd_sql.py", line 51, in transformer
+    tic=x.strip(',')
+AttributeError: 'NoneType' object has no attribute 'strip'
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18

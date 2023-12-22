@@ -3398,3 +3398,3648 @@ Index_p             float64
 PCratio_p           float64
 id                    int64
 dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-04-15  17076.73  -5.699711     152.41   1
+1  2021-04-16  17158.81  -3.510879     151.28   2
+2  2021-04-19  17263.28  -9.432990     166.03   3
+3  2021-04-20  17323.87  -4.978216     167.10   4
+4  2021-04-21  17202.11   7.127207     156.81   5
+..        ...       ...        ...        ...  ..
+85 2021-08-16  16858.77  31.261072      84.79  86
+86 2021-08-17  16661.36  24.624594      79.16  87
+87 2021-08-18  16826.27   0.540101     113.14  88
+88 2021-08-19  16375.40  23.270400      80.64  89
+89 2021-08-20  16341.94  11.777181      83.29  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-06-25  17502.99  15.675338     144.99   1
+1  2021-06-28  17590.97  17.730193     143.23   2
+2  2021-06-29  17598.19  20.113157     133.78   3
+3  2021-06-30  17755.46  11.550982     121.62   4
+4  2021-07-01  17713.94  20.577486     136.97   5
+..        ...       ...        ...        ...  ..
+85 2021-10-27  17074.55   6.548714     108.30  86
+86 2021-10-28  17041.63   9.195267     109.67  87
+87 2021-10-29  16987.41   9.940184     106.06  88
+88 2021-11-01  17068.24   5.371147     113.06  89
+89 2021-11-02  17065.97   7.843666     110.08  90
+
+[90 rows x 5 columns]
+Traceback (most recent call last):
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/pfcf/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 71, in <module>
+    charset='utf8',
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
